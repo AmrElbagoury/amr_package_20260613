@@ -1,2 +1,2 @@
 def hello():
-    return "Hello from my_package!"
+    return "Kos om el corporates. Let's do 🍄 instead."
